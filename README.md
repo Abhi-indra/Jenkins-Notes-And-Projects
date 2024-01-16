@@ -84,3 +84,5 @@ Once you are done with above steps, it is better to restart Jenkins.
 
 The Docker agent configuration is now sussessfully completed.
 
+# Project 1
+ - A simple jenkins pipeline to verify if the docker agent configuration is working as expected.
