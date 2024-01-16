@@ -48,8 +48,9 @@ In this repository we see how to install jenkins on EC2(ubuntu) instance and con
 
 ### Login to Jenkins using the below URL:
     - http://<public-ip>:8080
-Run the command to copy the Jenkins Admin Password
--   sudo cat /var/lib/jenkins/secrets/initialAdminPassword   
+
+##### Run the command to copy the Jenkins Admin Password
+    sudo cat /var/lib/jenkins/secrets/initialAdminPassword   
  - Enter the Administrator password
  - Click on install suggested plugins
  - Wait for the Jenkins to Install suggested plugins
